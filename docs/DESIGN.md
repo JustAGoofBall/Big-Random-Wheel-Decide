@@ -2,7 +2,7 @@
 
 > Een verbeterde versie van wheeldecide.com: zet items in een rad, draai, en laat het rad (eerlijk) beslissen.
 
-Status: **concept v1**, ter review. De klikbare mockup staat op het [SpinDecide-mockup-canvas](https://claude.ai/artifact/Jn4RWpri2JAiu7qcj2WWN5) (privé).
+Status: **v1 gebouwd**. De klikbare mockup staat op het [SpinDecide-mockup-canvas](https://claude.ai/artifact/Jn4RWpri2JAiu7qcj2WWN5) (privé).
 
 ---
 
